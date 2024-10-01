@@ -1,7 +1,10 @@
 # datafun-06-eda
 
-
 garrett_eda.ipynb will use the seaborn package to complete an exploratory data analysis of the built in "diamonds" data set.
+
+Data can be found here 
+
+<https://github.com/mwaskom/seaborn-data/blob/master/diamonds.csv>
 
 ## Create and Activate Project Virtual Environment
 
